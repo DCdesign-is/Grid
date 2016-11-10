@@ -58,8 +58,8 @@
 	display: block;
 	float: left;
 	margin: 0 1.25% 0 1.25%;
-	height: 100px;
-	margin-bottom: 2px;
+/*	height: 100px;*/
+/*	margin-bottom: 2px;*/
 }
 
 .container:after {
